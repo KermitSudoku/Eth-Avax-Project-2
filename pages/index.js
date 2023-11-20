@@ -169,17 +169,6 @@ export default function HomePage() {
     }
   }
   
-  const addVals = async() => {
-    if (atm){ 
-      try {
-        setResult((await atm.addVals(num1,num2)).toNumber());
-        
-      } catch (error){
-        alert("Error calculating sum:", error.message);
-      }
-    }
-  }
-  
   const subVals = async() => {
 	if (atm){ 
       try{
