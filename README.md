@@ -58,6 +58,5 @@ Once you're in the main page, you can withdraw or deposit ETH into your account,
 
 ## Authors
 
-Jarod Jangcan
 [KermitSudoku](https://github.com/KermitSudoku)
 
